@@ -1,0 +1,16 @@
+# TensorFlow (>=2.11 để hỗ trợ GPU tốt, nếu dùng GPU)
+tensorflow>=2.11
+
+# PyTorch (CPU hoặc GPU, tự động nhận)
+torch
+torchvision
+
+# Xử lý ảnh, mask, augmentation
+numpy
+Pillow
+opencv-python
+albumentations
+
+# (Tùy chọn, nếu dùng thêm)
+matplotlib
+scikit-learn 
